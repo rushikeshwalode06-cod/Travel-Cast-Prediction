@@ -7,6 +7,8 @@ This project predicts travel expenses based on factors like Distance_km , transp
 This project predicts travel expenses based on factors like Distance_km, transport type, number of days, number of people, and hotel_rating.
 It uses Machine Learning algorithms to estimate trip costs accurately, helping users plan budgets efficiently.
 
+![ML](https://github.com/rushikeshwalode06-cod/Travel-Cost-Prediction/blob/main/Travel%20Cost%20prediction.png?raw=true)
+
 ## 🚀 Features
 1. Predict travel cost instantly
 2. User-friendly input parameters
