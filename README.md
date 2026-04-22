@@ -24,7 +24,8 @@ The dataset contains the following features:
 5. Hotel_rating
 6. Total Cost (Target Variable)
 
-##🧠 Machine Learning Model
+## 🧠 Machine Learning Model
+
 Algorithm Used:  Linear Regression
 
 1. Data Preprocessing 
